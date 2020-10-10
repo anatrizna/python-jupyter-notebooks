@@ -10,7 +10,7 @@ Prerequised: <br/>
 *Knowledge of the basics of quantum computing (QWorld Bronze workshop)<br/>
 
 Covered topics:<br/>
-*Quantum Qryptography<br/>
+*Quantum Cryptography<br/>
 *Classical Error Correction<br/>
 
 Instructions:<br/>
